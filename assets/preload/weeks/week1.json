@@ -1,22 +1,76 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"Bopeebo Beta Mix",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bopeebo Extended Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh In Game Version",
+			"monster",
+			[
+				50,
+				60,
+				50
+			]
+		],
+		[
+			"Fresh Alternative Version",
+			"spooky",
+			[
+				255,
+				0,
+				133
+			]
+		],
+		[
+			"Dad Battle In Game Version",
+			"pico",
+			[
+				255,
+				40,
+				75
+			]
+		],
+		[
+			"Dad Battle Jp Version",
+			"mom",
+			[
+				255,
+				255,
+				255
+			]
+		]
 	],
-
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
 	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
+	"storyName": "Siiva week 1 rips",
 	"weekName": "Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": false,
+	"difficulties": "Normal"
 }
