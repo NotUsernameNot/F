@@ -1,17 +1,53 @@
 {
 	"songs": [
 		[
-			"Fresh Itchio Build",
-			"spirit-pixel",
+			"Spookeez Beta mix",
+			"spooky",
 			[
-				255,
-				255,
-				255
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Bopeebo Short Version",
+			"Spookeez In Game Version",
 			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Spookeez Jpn Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"South",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"South In Game Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Monster",
+			"monster",
 			[
 				146,
 				113,
@@ -20,14 +56,14 @@
 		]
 	],
 	"weekCharacters": [
-		"dad",
+		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-	"weekBefore": "week1",
-	"storyName": "Siiva week 1 rips",
-	"weekName": "Custom Week",
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"storyName": "Siiva Pack Week 2",
+	"weekName": "week2",
 	"freeplayColor": [
 		146,
 		113,
