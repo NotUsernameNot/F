@@ -21,3 +21,7 @@ bf-pixel-opponent
 pico-player
 bf2
 amy
+gambino
+tetris
+slam
+metal-sonic
