@@ -1,69 +1,69 @@
 {
 	"songs": [
 		[
-			"Bopeebo Beta Mix",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Bopeebo Extended Version",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Fresh In Game Version",
-			"monster",
-			[
-				50,
-				60,
-				50
-			]
-		],
-		[
-			"Fresh Alternative Version",
+			"Spookeez Beta mix",
 			"spooky",
 			[
-				255,
-				0,
-				133
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Dad Battle In Game Version",
-			"pico",
+			"Spookeez In Game Version",
+			"dad",
 			[
-				255,
-				40,
-				75
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Dad Battle Jp Version",
-			"mom",
+			"Spookeez Jpn Version",
+			"dad",
 			[
-				255,
-				255,
-				255
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"South",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"South In Game Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				146,
+				113,
+				253
 			]
 		]
 	],
 	"weekCharacters": [
-		"dad",
+		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
+	"weekBackground": "halloween",
 	"weekBefore": "tutorial",
-	"storyName": "Siiva week 1 rips",
-	"weekName": "Week 1",
+	"storyName": "Siiva Pack Week 2",
+	"weekName": "week2",
 	"freeplayColor": [
 		146,
 		113,
