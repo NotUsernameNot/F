@@ -2,16 +2,16 @@
 	"dialogue": [
 		{
 			"speed": 0.055,
-			"portrait": "qt",
+			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "nervous",
+			"expression": "talk",
 			"text": "Oh dear..."
 		},
 		{
 			"speed": 0.045,
-			"portrait": "qt",
+			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "nervous",
+			"expression": "talk",
 			"text": "Lets try that again..."
 		},
 		{
