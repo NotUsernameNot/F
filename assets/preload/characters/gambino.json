@@ -90,8 +90,8 @@
 	"no_antialiasing": false,
 	"image": "characters/gambino",
 	"position": [
-		-100,
-		50
+		-95,
+		70
 	],
 	"healthicon": "gambino",
 	"flip_x": false,
