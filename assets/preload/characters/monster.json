@@ -135,7 +135,7 @@
 	"image": "characters/Monster_Assets",
 	"position": [
 		0,
-		100
+		160
 	],
 	"healthicon": "monster",
 	"flip_x": false,
