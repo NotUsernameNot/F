@@ -91,7 +91,7 @@
 	"image": "characters/spooky_kids_assets",
 	"position": [
 		0,
-		200
+		225
 	],
 	"healthicon": "spooky",
 	"flip_x": false,
