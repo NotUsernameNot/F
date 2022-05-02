@@ -190,8 +190,8 @@
 	"no_antialiasing": false,
 	"image": "characters/amy",
 	"position": [
-		-30,
-		-20
+		-70,
+		-45
 	],
 	"healthicon": "gf",
 	"flip_x": false,
