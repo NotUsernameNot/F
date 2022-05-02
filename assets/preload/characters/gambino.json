@@ -91,7 +91,7 @@
 	"image": "characters/gambino",
 	"position": [
 		-95,
-		70
+		85
 	],
 	"healthicon": "gambino",
 	"flip_x": false,
