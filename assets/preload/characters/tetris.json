@@ -91,7 +91,7 @@
 	"image": "characters/tetris",
 	"position": [
 		-100,
-		50
+		60
 	],
 	"healthicon": "tetris",
 	"flip_x": false,
