@@ -1,6 +1,6 @@
 package;
 
-#if desktop
+#if html5
 import Discord.DiscordClient;
 #end
 import flash.text.TextField;
@@ -69,7 +69,7 @@ class ModsMenuState extends MusicBeatState
 		Paths.destroyLoadedImages();
 		WeekData.setDirectoryFromWeek();
 
-		#if desktop
+		#if html5
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
