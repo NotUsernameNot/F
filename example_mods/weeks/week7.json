@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"You smell like you farded",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Harded",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}
