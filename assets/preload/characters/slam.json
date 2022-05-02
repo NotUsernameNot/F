@@ -91,7 +91,7 @@
 	"image": "characters/slam",
 	"position": [
 		-100,
-		50
+		70
 	],
 	"healthicon": "spooky",
 	"flip_x": false,
