@@ -369,6 +369,8 @@ class PlayState extends MusicBeatState
 					curStage = 'school';
 				case 'thorns':
 					curStage = 'schoolEvil';
+				case 'south-beta-mix' | 'south-in-game-version' | 'spookeez-beta-mix' | 'spookeez-in-game-version' | 'monster':
+					curStage = 'philly';
 				default:
 					curStage = 'stage';
 			}
