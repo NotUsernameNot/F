@@ -1083,7 +1083,7 @@ class PlayState extends MusicBeatState
 		#end
 		
 		var daSong:String = Paths.formatToSongPath(curSong);
-		if (isStoryMode && !seenCutscene)
+		if (!isStoryMode)
 		{
 			switch (daSong)
 			{
@@ -1143,6 +1143,9 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
+					
+				case 'philly-nice-in-game-version':
+					startVideo('yankin');
 				
 				default:
 					startCountdown();
